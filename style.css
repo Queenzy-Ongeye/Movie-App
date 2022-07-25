@@ -51,7 +51,7 @@ header {
 
 main {
     display: flex;
-    font-weight: wrap;
+    flex-wrap: wrap;
     justify-content: center;
 }
 
