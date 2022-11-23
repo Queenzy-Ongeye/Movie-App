@@ -13,7 +13,7 @@ You can install it with the following command in your terminal
 ### Setup
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
-1. Use this command to clone `$ git clone https://github.com/Queenzy-Ongeye/Movie-App.git
+1. Use this command to clone `$ git clone https://github.com/Queenzy-Ongeye/Movie-App.git`
 1. This will clone the repository to your local folder
 ### Technologies used.
 1. HTML
